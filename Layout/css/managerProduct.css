@@ -1,0 +1,26 @@
+.image-product {
+    display: flex;
+    margin: auto;
+}
+
+.title-product>td {
+    text-align: center;
+}
+
+.title-product>th {
+    text-align: center;
+}
+
+.text-primaryColor {
+    color: #0aad0a;
+}
+
+.card-body {
+    transition: all 0.4s ease-out;
+}
+
+.card-body:hover {
+    box-shadow: 5px 10px 30px rgba(0, 0, 0, 0.15);
+
+}
+

@@ -1,0 +1,34 @@
+
+#deleteForm {
+    width: 300px;
+    padding: 20px;
+    background: #f1f1f1;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #333;
+    border-radius: 5px;
+  }
+
+  .box-order-detail {
+    margin: 20px;
+    background: #f1f1f1;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #333;
+    border-radius: 5px;
+    overflow-y: scroll;
+    height: 500px;
+  }
+  
+  #showFormButton {
+    margin: 10px;
+  }
+  
+  #cancelDelete {
+    margin-top: 10px;
+  }
+  

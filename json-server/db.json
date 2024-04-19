@@ -1,0 +1,415 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Food"
+    },
+    {
+      "id": 2,
+      "name": "SuShi"
+    },
+    {
+      "id": 3,
+      "name": "Fruit"
+    },
+    {
+      "name": "Snack",
+      "id": 4
+    }
+  ],
+  "product": [
+    {
+      "id": 2,
+      "idCate": 1,
+      "image": "https://freshcart.codescandy.com/assets/images/products/product-img-2.jpg",
+      "desc": "Bakery & Biscuits",
+      "nameProduct": "NutriChoice Digestive",
+      "price": "240000",
+      "description": "Bakery & Biscuits"
+    },
+    {
+      "id": 3,
+      "idCate": 1,
+      "image": "https://freshcart.codescandy.com/assets/images/products/product-img-3.jpg",
+      "desc": "Bakery & Biscuits",
+      "nameProduct": "Cadbury 5 Star Chocolate",
+      "price": "320000",
+      "description": "Bakery & Biscuits"
+    },
+    {
+      "id": 4,
+      "idCate": 1,
+      "image": "https://freshcart.codescandy.com/assets/images/products/product-img-4.jpg",
+      "desc": "Snack & Munchies",
+      "nameProduct": "Onion Flavour Potato",
+      "price": "180000",
+      "description": "Snack & Munchies"
+    },
+    {
+      "idCate": 1,
+      "nameProduct": "Salted Instant Popcorn",
+      "desc": "Instant Food",
+      "price": "260000",
+      "image": "https://freshcart.codescandy.com/assets/images/products/product-img-5.jpg",
+      "id": 5,
+      "description": "Instant Food"
+    },
+    {
+      "idCate": 2,
+      "nameProduct": "Blueberry Greek Yogurt",
+      "desc": "Dairy, Bread & Eggs",
+      "price": "360000",
+      "image": "https://freshcart.codescandy.com/assets/images/products/product-img-6.jpg",
+      "id": 6,
+      "description": "Dairy, Bread & Eggs"
+    },
+    {
+      "idCate": 2,
+      "nameProduct": " Britannia Cheese Slices",
+      "description": "Dairy, Bread & Eggs",
+      "price": "480000",
+      "image": "https://freshcart.codescandy.com/assets/images/products/product-img-7.jpg",
+      "id": 7
+    },
+    {
+      "idCate": 2,
+      "nameProduct": "Kellogg's Original Cereals",
+      "description": "Instant Food",
+      "price": "750000",
+      "image": "https://freshcart.codescandy.com/assets/images/products/product-img-8.jpg",
+      "id": 8
+    },
+    {
+      "idCate": 2,
+      "nameProduct": "Slurrp Millet Chocolate",
+      "description": "Snack & Munchies",
+      "price": "125000",
+      "image": "https://freshcart.codescandy.com/assets/images/products/product-img-9.jpg",
+      "id": 9
+    },
+    {
+      "idCate": 3,
+      "nameProduct": "Fresh Tomato",
+      "description": "Vegetables",
+      "price": "150000",
+      "image": "https://themewagon.github.io/foody2/img/product-1.jpg",
+      "id": 11
+    },
+    {
+      "idCate": 3,
+      "nameProduct": "Spicy chili pepper",
+      "description": "Vegetables",
+      "price": "96000",
+      "image": "https://themewagon.github.io/foody2/img/product-3.jpg",
+      "id": 12
+    },
+    {
+      "idCate": 3,
+      "nameProduct": "Potato",
+      "description": "Vegetables",
+      "price": "79000",
+      "image": "https://themewagon.github.io/foody2/img/product-7.jpg",
+      "id": 13
+    },
+    {
+      "idCate": 3,
+      "nameProduct": "Fresh Wiki",
+      "description": "Fruit",
+      "price": "250000",
+      "image": "https://freshcart.codescandy.com/assets/images/products/product-img-17.jpg",
+      "id": 14
+    },
+    {
+      "idCate": 3,
+      "nameProduct": "Fresh Apple",
+      "description": "Fruits",
+      "price": "199000",
+      "image": "https://freshcart.codescandy.com/assets/images/products/product-img-15.jpg",
+      "id": 15
+    },
+    {
+      "nameProduct": "Fresh banana",
+      "idCate": "3",
+      "description": "Vegetables",
+      "price": "60000",
+      "image": "https://freshcart.codescandy.com/assets/images/products/product-img-18.jpg",
+      "id": 16
+    },
+    {
+      "nameProduct": "weqwe",
+      "idCate": "",
+      "description": "",
+      "price": "",
+      "image": "",
+      "id": 17
+    },
+    {
+      "nameProduct": "qưeqw",
+      "idCate": "qưeqwe",
+      "description": "",
+      "price": "",
+      "image": "",
+      "id": 18
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "phamtheanadmin",
+      "password": "12345",
+      "roll": "admin"
+    },
+    {
+      "username": "khachhang1",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "username": "customer1",
+      "password": "1234567890",
+      "roll": "Customer",
+      "id": 3
+    },
+    {
+      "username": "customer2",
+      "password": "123245",
+      "roll": "Customer",
+      "id": 4
+    },
+    {
+      "username": "customer3",
+      "password": "12323432",
+      "roll": "Customer",
+      "id": 5
+    },
+    {
+      "username": "customer4",
+      "password": "12345",
+      "roll": "Customer",
+      "id": 6
+    },
+    {
+      "username": "sdfsdfs",
+      "password": "sdfsdsdfsd",
+      "roll": "Customer",
+      "id": 7
+    },
+    {
+      "username": "customer5",
+      "password": "123",
+      "roll": "Customer",
+      "id": 8
+    },
+    {
+      "username": "customer6",
+      "password": "124",
+      "roll": "Customer",
+      "id": 9
+    },
+    {
+      "username": "customer7",
+      "password": "123",
+      "roll": "Customer",
+      "id": 10
+    },
+    {
+      "username": "ưqwqweqweq",
+      "password": "qưeqweqweq",
+      "roll": "Customer",
+      "id": 11
+    },
+    {
+      "username": "phamthean123",
+      "password": "fff",
+      "id": 14
+    },
+    {
+      "username": "phamthean",
+      "password": "2",
+      "id": 16
+    },
+    {
+      "username": "ádas",
+      "password": "ádas",
+      "id": 19
+    },
+    {
+      "username": "ádad",
+      "password": "áda",
+      "id": 20
+    },
+    {
+      "username": "qeqeq",
+      "password": "qưewe",
+      "id": 21
+    },
+    {
+      "username": "qeqeq444",
+      "password": "qưewe",
+      "id": 22
+    },
+    {
+      "username": "qưeqweqw",
+      "password": "qưewe",
+      "id": 24
+    },
+    {
+      "username": "phamthean123",
+      "password": "1232311111",
+      "id": 25
+    },
+    {
+      "username": "phamthean03",
+      "password": "aaaa",
+      "id": 26
+    },
+    {
+      "username": "admin",
+      "password": "asss",
+      "id": 27
+    },
+    {
+      "username": "asb",
+      "password": "qưee",
+      "id": 28
+    }
+  ],
+  "order": [
+    {
+      "nameCustomer": "clone",
+      "emailCustomer": "clone@gmail.com",
+      "addressCustomer": "Ha Noi , Viet Nam",
+      "phoneNumberCustomer": "0009998887",
+      "idProduct": [
+        {
+          "idProduct": 9,
+          "nameProduct": "Slurrp Millet Chocolate",
+          "description": "Snack & Munchies",
+          "price": "125000",
+          "image": "https://freshcart.codescandy.com/assets/images/products/product-img-9.jpg"
+        },
+        {
+          "idProduct": 12,
+          "nameProduct": "Spicy chili pepper",
+          "description": "Vegetables",
+          "price": "96000",
+          "image": "https://themewagon.github.io/foody2/img/product-3.jpg"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "nameCustomer": "clone 2 ",
+      "emailCustomer": "clone2@gmail.com",
+      "addressCustomer": "Đà Nẵng , Việt Nam",
+      "phoneNumberCustomer": "0987789987",
+      "idProduct": [
+        {
+          "idProduct": 5,
+          "nameProduct": "Salted Instant Popcorn",
+          "description": "Instant Food",
+          "price": "260000",
+          "image": "https://freshcart.codescandy.com/assets/images/products/product-img-5.jpg"
+        },
+        {
+          "idProduct": 1,
+          "nameProduct": "Haldiram's Sev Bhujia",
+          "description": "Snack & Munchies",
+          "price": "350000",
+          "image": "https://freshcart.codescandy.com/assets/images/products/product-img-1.jpg"
+        },
+        {
+          "idProduct": 2,
+          "nameProduct": "NutriChoice Digestive",
+          "description": "Bakery & Biscuits",
+          "price": "240000",
+          "image": "https://freshcart.codescandy.com/assets/images/products/product-img-2.jpg"
+        },
+        {
+          "idProduct": 3,
+          "nameProduct": "Cadbury 5 Star Chocolate",
+          "description": "Bakery & Biscuits",
+          "price": "320000",
+          "image": "https://freshcart.codescandy.com/assets/images/products/product-img-3.jpg"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "nameCustomer": "clone3",
+      "emailCustomer": "clone3@gmail.com",
+      "addressCustomer": "Hà nội, Việt nam",
+      "phoneNumberCustomer": "098767890",
+      "idProduct": [
+        {
+          "idProduct": 1,
+          "nameProduct": "Haldiram's Sev Bhujia",
+          "description": "Snack & Munchies",
+          "price": "350000",
+          "image": "https://freshcart.codescandy.com/assets/images/products/product-img-1.jpg"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "nameCustomer": "pham the an",
+      "emailCustomer": "an@gmail.com",
+      "addressCustomer": "Đà nẵng ",
+      "phoneNumberCustomer": "0987654321",
+      "idProduct": [
+        {
+          "idProduct": 1,
+          "nameProduct": "Haldiram's Sev Bhujia",
+          "description": "Snack & Munchies",
+          "price": "250000",
+          "image": "https://freshcart.codescandy.com/assets/images/products/product-img-1.jpg"
+        },
+        {
+          "idProduct": 5,
+          "nameProduct": "Salted Instant Popcorn",
+          "description": "Instant Food",
+          "price": "260000",
+          "image": "https://freshcart.codescandy.com/assets/images/products/product-img-5.jpg"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "nameCustomer": "phamthean123",
+      "emailCustomer": "an123@gmail.com",
+      "addressCustomer": "Đà Nẵng ",
+      "phoneNumberCustomer": "09870149543",
+      "idProduct": [
+        {
+          "idProduct": 6,
+          "nameProduct": "Blueberry Greek Yogurt",
+          "description": "Dairy, Bread & Eggs",
+          "price": "360000",
+          "image": "https://freshcart.codescandy.com/assets/images/products/product-img-6.jpg"
+        },
+        {
+          "idProduct": 7,
+          "nameProduct": " Britannia Cheese Slices",
+          "description": "Dairy, Bread & Eggs",
+          "price": "480000",
+          "image": "https://freshcart.codescandy.com/assets/images/products/product-img-7.jpg"
+        },
+        {
+          "idProduct": 2,
+          "nameProduct": "NutriChoice Digestive",
+          "description": "Bakery & Biscuits",
+          "price": "240000",
+          "image": "https://freshcart.codescandy.com/assets/images/products/product-img-2.jpg"
+        },
+        {
+          "idProduct": 3,
+          "nameProduct": "Cadbury 5 Star Chocolate",
+          "description": "Bakery & Biscuits",
+          "price": "320000",
+          "image": "https://freshcart.codescandy.com/assets/images/products/product-img-3.jpg"
+        }
+      ],
+      "id": 11
+    }
+  ]
+}
